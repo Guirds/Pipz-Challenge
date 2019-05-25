@@ -11,7 +11,8 @@ const GlobalStyle = createGlobalStyle`
   body{
     background: #00afac;
     text-rendering: optimizeLegibility !important;
-    -webkit-font-smoothing: antialiased !important
+    -webkit-font-smoothing: antialiased !important;
+    font-family: sans-serif;
   }
 `;
 
