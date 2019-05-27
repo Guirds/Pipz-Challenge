@@ -31,7 +31,7 @@ export default class Main extends Component {
           <Form onSubmit={this.handleAddFilm}>
             <input
               type="text"
-              placeholder="Digite o número do filme ex:1"
+              placeholder="Digite o número do epsódio ex:1"
               value={this.state.filmInput}
               onChange={e => this.setState({ filmInput: e.target.value })}
             />
