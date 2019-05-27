@@ -1,3 +1,6 @@
+## Descrição 
+Com base na <a href="https://swapi.co">API</a> disponibilizada pela Pipz's, utilizei meus conhecimento em HTML, CSS e JS, com a biblioteca ReactJS e styeld components para desenvolver e estilizar a aplicação. 
+Que tem por objetivo retornar um filme com base na requisição, as consultas estão limitadas de 1 à 7 
 ## Necessário ter em sua máquina
 <ul>
   <li><a href="https://nodejs.org/en/">Node.js</a> (versão LTS)</li>
